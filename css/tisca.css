@@ -1,0 +1,50 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fffef8;
+    padding: 1em 0 0 0;
+    margin: 0 auto;
+    background: #350050;
+    width: 640px;
+}
+
+h1 {
+    font-weight: 200;
+    font-size: 60px;
+    margin: 30px 0 0 0;
+}
+
+h2 {
+    font-weight: 200;
+    font-size: 40px;
+    margin: 10px 0 0 0;
+}
+
+ul {
+    padding: 0;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin: 60px 0 15px 0;
+}
+
+p {
+    line-height: 150%;
+}
+
+a {
+    color: #ffd4f9;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: #ffd4f9;
+}
+
+
